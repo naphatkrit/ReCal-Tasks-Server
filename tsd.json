@@ -1,0 +1,51 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "express/express.d.ts": {
+      "commit": "cb08e83dd87ace1202d1032a8f275b3efacde5c3"
+    },
+    "node/node.d.ts": {
+      "commit": "51d426745a1c0a88ca3234102f0a87ab3fcff334"
+    },
+    "serve-favicon/serve-favicon.d.ts": {
+      "commit": "e57df787f4e11601625d7e1c1b2ee351b97a18a1"
+    },
+    "body-parser/body-parser.d.ts": {
+      "commit": "e57df787f4e11601625d7e1c1b2ee351b97a18a1"
+    },
+    "cookie-parser/cookie-parser.d.ts": {
+      "commit": "e57df787f4e11601625d7e1c1b2ee351b97a18a1"
+    },
+    "debug/debug.d.ts": {
+      "commit": "e57df787f4e11601625d7e1c1b2ee351b97a18a1"
+    },
+    "morgan/morgan.d.ts": {
+      "commit": "e57df787f4e11601625d7e1c1b2ee351b97a18a1"
+    },
+    "sequelize/sequelize.d.ts": {
+      "commit": "e57df787f4e11601625d7e1c1b2ee351b97a18a1"
+    },
+    "lodash/lodash.d.ts": {
+      "commit": "e57df787f4e11601625d7e1c1b2ee351b97a18a1"
+    },
+    "passport/passport.d.ts": {
+      "commit": "cb08e83dd87ace1202d1032a8f275b3efacde5c3"
+    },
+    "express-session/express-session.d.ts": {
+      "commit": "cb08e83dd87ace1202d1032a8f275b3efacde5c3"
+    },
+    "q/Q.d.ts": {
+      "commit": "6b19a967eff47c4d6eaf56c573ea4b8f0fc9c487"
+    },
+    "mocha/mocha.d.ts": {
+      "commit": "25da006de5de3d2e31252fdc988296c7c212f231"
+    },
+    "mongoose/mongoose.d.ts": {
+      "commit": "51d426745a1c0a88ca3234102f0a87ab3fcff334"
+    }
+  }
+}
